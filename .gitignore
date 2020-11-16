@@ -1,0 +1,4 @@
+.vscode
+tests
+a.out
+*.o
