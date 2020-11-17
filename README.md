@@ -1,0 +1,2 @@
+# libc
+rewriting stdlib functions
