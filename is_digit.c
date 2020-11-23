@@ -1,5 +1,5 @@
 
 int is_digit(int param)
 {
-  return param >= 48 && param <= 57 ? 1 : 0;
+  return param >= 48 && param <= 57;
 }
